@@ -1,3 +1,2 @@
-[main 212b3a8] m
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 0x01-shell_permissions/.3-new_owner.swp
+#1/bin/bash
+ls -l hello
